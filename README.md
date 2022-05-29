@@ -34,3 +34,6 @@ explain this theoretically so how about we show what it means. We have
 attached some 900 random examples of technical skills
 (Example_Technical_Skills.csv), go through them to understand the
 pattern and sequence.
+
+# SOLUTION
+Click the Solution folder to see how I solved this problem.
